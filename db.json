@@ -1,9 +1,47 @@
 {
-  "products": [
-    { "id": "1", "title": "product-title", "price": 999 }
-  ],
   "users": [
-    { "id": "1", "name": "Andri Firmansyah", "gender": "male" }
+    {
+      "name": "Andri",
+      "updatedAt": 1677993006120,
+      "id": "BLmV82W"
+    },
+    {
+      "name": "Anti",
+      "id": "zNM7tQk"
+    },
+    {
+      "name": "Anti",
+      "id": "hyH7RRs"
+    },
+    {
+      "name": "Rando",
+      "createdAt": 1677991898670,
+      "id": "mbrMLJA"
+    },
+    {
+      "name": "Randi",
+      "createdAt": 1677992978594,
+      "id": "fVZqbII"
+    }
   ],
-  "orders": { "product_id": "1", "quantity": 1, "total": 999 }
+  "orders": [],
+  "products": [
+    {
+      "name": "product satu",
+      "createdAt": 1677993148302,
+      "id": 1
+    }
+  ],
+  "repositories": [
+    {
+      "name": "repo-name",
+      "id": "1",
+      "userId": "BLmV82W"
+    },
+    {
+      "name": "repo-name",
+      "id": "2",
+      "userId": "BLmV82W"
+    }
+  ]
 }
